@@ -1,1 +1,3 @@
+com\epw\aplication\entity\Course.class
 com\epw\aplication\AplicationApplication.class
+com\epw\aplication\repository\CourseRepository.class
