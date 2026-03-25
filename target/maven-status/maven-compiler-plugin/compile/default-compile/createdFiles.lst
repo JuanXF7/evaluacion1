@@ -1,6 +1,8 @@
 com\epw\aplication\dto\CourseResponse.class
 com\epw\aplication\dto\CourseRequest.class
 com\epw\aplication\entity\Course.class
+com\epw\aplication\entity\Instructor.class
+com\epw\aplication\repository\InstructorRepository.class
 com\epw\aplication\AplicationApplication.class
 com\epw\aplication\service\impl\CourseServiceImpl.class
 com\epw\aplication\controller\CourseController.class
